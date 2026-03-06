@@ -1,0 +1,7 @@
+{
+  "name": "ocrOCR",
+  "description": "A high-performance, AI-powered OCR application that extracts, translates, and summarizes text from images using Gemini 3 Flash.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
